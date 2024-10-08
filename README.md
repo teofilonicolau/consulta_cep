@@ -2,6 +2,8 @@
 
 Este projeto é uma aplicação simples de consulta de endereço a partir de um CEP usando a **API ViaCEP**. O usuário insere o CEP, e a aplicação retorna o endereço correspondente, incluindo rua, bairro, cidade e estado.
 
+## Pagina : https://teofilonicolau.github.io/consulta_cep/
+
 ## Tecnologias Utilizadas
 
 - **HTML5**: Estrutura do conteúdo.
@@ -29,9 +31,9 @@ O código HTML define a estrutura básica da página, incluindo um campo para di
 - Os outros campos (endereco, bairro, cidade, uf) são campos de entrada que estão marcados como somente leitura (readonly), pois o usuário não pode editá-los diretamente. Eles são preenchidos automaticamente com os dados da API.
 
 - 
-Aqui está um exemplo de como você pode estruturar o README em Markdown explicando o código de consulta de CEP:
 
-markdown
+
+
 Copiar código
 # Consulta de Endereço via CEP
 
